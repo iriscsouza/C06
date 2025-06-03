@@ -1,0 +1,73 @@
+Total de ordens gerenciadas: 2 [Comando para Gabriel]: Mensagem teste 1
+
+Operador Gabriel está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+[Comando para Henrique]: Mensagem teste 2
+Operador Henrique está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+Gerente gerando relatório do setor Produção...
+Total de ordens gerenciadas: 2
+- Produto: Placa de circuito | Status: Finalizada
+- Produto: Sensor IoT | Status: Finalizada
+[Comando para Gabriel]: Mensagem teste 1
+Operador Gabriel está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+[Comando para Henrique]: Mensagem teste 2
+Operador Henrique está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+Gerente gerando relatório do setor Produção...
+Total de ordens gerenciadas: 2
+- Produto: Placa de circuito | Status: Finalizada
+- Produto: Sensor IoT | Status: Finalizada
+[Comando para Gabriel]: Mensagem teste 1
+Operador Gabriel está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+[Comando para Henrique]: Mensagem teste 2
+Operador Henrique está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+Gerente gerando relatório do setor Produção...
+Total de ordens gerenciadas: 2
+- Produto: Placa de circuito | Status: Finalizada
+- Produto: Sensor IoT | Status: Finalizada
+[Comando para Gabriel]: Mensagem teste 1
+Operador Gabriel está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+[Comando para Henrique]: Mensagem teste 2
+Operador Henrique está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+Gerente gerando relatório do setor Produção...
+Total de ordens gerenciadas: 2
+- Produto: Placa de circuito | Status: Finalizada
+- Produto: Sensor IoT | Status: Finalizada
+[Comando para Gabriel]: Mensagem teste 1
+Operador Gabriel está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+[Comando para Henrique]: Mensagem teste 2
+Operador Henrique está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+Gerente gerando relatório do setor Produção...
+Total de ordens gerenciadas: 2
+- Produto: Placa de circuito | Status: Finalizada
+- Produto: Sensor IoT | Status: Finalizada
+[Comando para Gabriel]: Mensagem teste 1
+Operador Gabriel está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+[Comando para Henrique]: Mensagem teste 2
+Operador Henrique está operando a máquina.
+[Sensor] Enviando sinal de tipo (1.1 MHz)...
+Produção finalizada.
+Gerente gerando relatório do setor Produção...
+Total de ordens gerenciadas: 2
+- Produto: Placa de circuito | Status: Finalizada
+- Produto: Sensor IoT | Status: Finalizada
